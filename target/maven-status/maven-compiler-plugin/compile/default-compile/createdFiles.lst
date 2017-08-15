@@ -1,0 +1,9 @@
+sample\models\User.class
+sample\dao\UserDaoImpl.class
+sample\services\UserService.class
+sample\Controllers\UserController.class
+sample\dao\UserDao.class
+sample\services\UserServiceImpl.class
+sample\config\WebInitializer.class
+sample\config\HibernateConfig.class
+sample\config\WebConfig.class
